@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.13">
   <diagram name="第 1 页" id="bXbiH3EwShpQN_3dVzvC">
-    <mxGraphModel dx="870" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1044" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,7 +31,7 @@
         <mxCell id="rSCCLJno3e1j1hXcmhqp-7" value="查看天气" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="192" y="171.67" width="76" height="36.67" as="geometry" />
         </mxCell>
-        <mxCell id="0HjXq0CEjoln_zBARy2v-1" value="查询设备" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="0HjXq0CEjoln_zBARy2v-1" value="查询机器" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="468" y="70.26000000000005" width="90" height="36.67" as="geometry" />
         </mxCell>
         <mxCell id="0HjXq0CEjoln_zBARy2v-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;fontSize=14;" parent="1" source="0HjXq0CEjoln_zBARy2v-2" target="0HjXq0CEjoln_zBARy2v-5" edge="1">
@@ -58,10 +58,10 @@
         <mxCell id="0HjXq0CEjoln_zBARy2v-5" value="收藏洗衣点" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="468" y="16.920000000000044" width="90" height="36.67" as="geometry" />
         </mxCell>
-        <mxCell id="0HjXq0CEjoln_zBARy2v-6" value="设备报修" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="0HjXq0CEjoln_zBARy2v-6" value="机器报修" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="468" y="221.09" width="100" height="36.67" as="geometry" />
         </mxCell>
-        <mxCell id="0HjXq0CEjoln_zBARy2v-7" value="设备空闲订阅" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="0HjXq0CEjoln_zBARy2v-7" value="机器空闲订阅" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="468" y="173.59" width="100" height="36.67" as="geometry" />
         </mxCell>
         <mxCell id="0HjXq0CEjoln_zBARy2v-8" value="预约洗衣服务" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" parent="1" vertex="1">
@@ -70,7 +70,7 @@
         <mxCell id="0HjXq0CEjoln_zBARy2v-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;fontSize=14;" parent="1" source="0HjXq0CEjoln_zBARy2v-9" target="0HjXq0CEjoln_zBARy2v-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0HjXq0CEjoln_zBARy2v-9" value="选择空闲设备" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="0HjXq0CEjoln_zBARy2v-9" value="选择空闲机器" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="468" y="121.09" width="100" height="36.67" as="geometry" />
         </mxCell>
       </root>
