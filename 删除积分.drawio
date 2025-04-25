@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="533" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="627" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,7 +52,7 @@
             <mxPoint y="25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1x29o_3ZwKhWgOv2N2SG-52" value="removeById" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=宋体;spacing=0;" parent="tbVlV7XajRI9sciDBmIH-6" vertex="1">
+        <mxCell id="1x29o_3ZwKhWgOv2N2SG-52" value="removeById(id)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=宋体;spacing=0;" parent="tbVlV7XajRI9sciDBmIH-6" vertex="1">
           <mxGeometry x="12.319999999999993" width="116" height="26" as="geometry" />
         </mxCell>
         <mxCell id="tbVlV7XajRI9sciDBmIH-10" value="" style="group" parent="1" vertex="1" connectable="0">
@@ -109,7 +109,7 @@
             <mxPoint x="497.62" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ad1gADm1mFAbiEcde9q4-31" value="insert into&lt;div&gt;points_record&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=宋体;spacing=0;" parent="1" vertex="1">
+        <mxCell id="ad1gADm1mFAbiEcde9q4-31" value="delete from&lt;div&gt;points_record&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=宋体;spacing=0;" parent="1" vertex="1">
           <mxGeometry x="357" y="179" width="138.23333333333332" height="26" as="geometry" />
         </mxCell>
         <mxCell id="ad1gADm1mFAbiEcde9q4-34" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontFamily=宋体;sourcePerimeterSpacing=0;endSize=6;" parent="1" edge="1">
